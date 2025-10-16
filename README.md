@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-left:10px;" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
@@ -48,11 +48,11 @@
 
 Want to collaborate, ask a question, or just chat? Feel free to reach out!
 
-<a href="mailto:youremail@example.com">
+<a href="mohamedfawazcoding@gmail.com">
  <img align="left" alt="Gmail" width="120" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/mohamed-fawaz-543b7038a">
   <img align="left" alt="LinkedIn" width="130" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
 
