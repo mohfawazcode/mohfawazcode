@@ -48,7 +48,8 @@
 
 Want to collaborate, ask a question, or just chat? Feel free to reach out!
 
-<a href="mohamedfawazcoding@gmail.com">
+
+<a href="mailto:mohamedfawazcoding@gmail.com">
  <img align="left" alt="Gmail" width="120" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 
